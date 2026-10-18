@@ -1,7 +1,7 @@
-//painel de estudos.
+// exercicio de JavaScript 
 console.log("Meu primeiro script foi executado!");
 console.log("Painel de Estudos");
-console.log("Praticando JavaScript.");
+console.log("Estou praticando JavaScript.");
 console.log("Soma de exemplo:", 10 + 5);
 
 const nomeAluno = "Enzo Musskopf"; 
@@ -16,14 +16,14 @@ console.log("Tarefas depois de estudar:", tarefasConcluidas);
 var exemploAntigo = "Exemplo de variável com var";
 console.log(exemploAntigo);
 
-// exemplos dos tipos de dados pedidos
+//exemplos 
 const materia = "JavaScript"; // string
 const horasEstudadas = 2; // number
 const estudandoHoje = true; // boolean
 const anotacao = null; // null
 console.log(materia, horasEstudadas, estudandoHoje, anotacao);
 
-// contas relacionadas aos estudos
+//contas relacionadas aos estudos.
 const tarefasDaSemana = 5;
 const tarefasFeitas = 3;
 const totalComMaisUma = tarefasFeitas + 1;
@@ -49,8 +49,7 @@ if (nota >= 6) {
   console.log(`Com nota ${nota}, precisa estudar mais.`);
 }
 
-//calcular o tempo de uma sessão de estudos
-
+//calcular o tempo de uma sessão de estudos.
 const minutosSessao = 40;
 let numeroSessoes = 2;
 const tempoTotal = minutosSessao * numeroSessoes;
